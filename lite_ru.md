@@ -1,12 +1,12 @@
-# "Kostanay-lite" Roll
+# Ролл "Костанай-lite"
 
-## **Ingredients:**
-* Chicken
-* Fresh cucumber
-* Philadelphia cream cheese
-* Baked "cap" on top (mayonnaise + cheese)
-* Rice on the outside with sesame seeds
-
-## **Roll Highlights:**
-* Combination of crispy tempura (the rice itself is tempura-style, not the chicken) with delicate cheese
-* Contrast of textures - crunchy, creamy, fresh
+## Состав:
+* Курица
+* Огурец свежий
+* Сливочный сыр Филадельфия
+* Запеченная "шапка" сверху (майонез + сыр)
+* Рис снаружи с кунжутом
+  
+## Фишки ролла:
+* Сочетание хрустящей темпуры (сам рис темпура, а не курица тут) с нежным сыром
+* Контраст текстур - хрустящее, кремовое, свежее
